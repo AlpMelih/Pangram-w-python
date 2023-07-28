@@ -1,0 +1,21 @@
+1.Gün
+Evrak işleri tamamladı 
+İş sağlığı guvenliği verildi 
+Fabrika tanıtıldı
+---------------------------------------------
+2.İŞ sağlığı eğitimi tamamlandı
+--------------------------------------------
+3.Bilgi Sistemleri departmanında gorevlendirildim.
+Tanışma ve departman hakkında bilgilendirme yapıldı.
+Departmandaki cihazlar hakkında bilgi verildi.
+Swictler ve hublarla alakalı arızalar giderildi.
+------------------------------------------------
+4.Gün
+Bilgisayarların durumu kontrol edildi gerekli bilgisayarlara ram eklendi ve ssd takıldı.
+Fabrikanın domain sistemi öğrenildi ve cihazların ssdsini bu domaine kayit etme işlemi gerçekleştirildi.
+Karşılaşılan genel sorunlar hakkında bilgilendirildim.
+cihaz temizlikleri gerçekleştirildi.
+Fabrikanın diğer bolumlerinde çıkan teknolojik arızalardan dolayı baret ile arızanın bulunduğu bölgeye gidildi.
+Arızanın bulunduğu bolgedeki bilgisayarda oluşan sıkıntı giderildi.
+Arıza hurda girişindeki bilgisayarda gerçekleşmişti ve listede sorun yaşanıyordu.Liste tekrar çalışır hale getirildi ve listenin gosterildiği ekran tekrar etkinleştirildi.
+--------------------------------
